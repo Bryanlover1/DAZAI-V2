@@ -13,7 +13,7 @@
 </p>
 
 ## 🌟 `Bot Intro and Features`
-[![DAZAI](https://telegra.ph/file/f9c3b74c74b91a78a3031.jpg)](https://youtu.be/WcA7GZuaN0A)
+[![DAZAI](https://telegra.ph/file/9040c4fed02a30944ec32.jpg)](https://youtu.be/WcA7GZuaN0A)
 
 ### ℹ️ **About DAZAI-V2**
 DAZAI-V2 is a versatile Multi-Device WhatsApp bot developed by [Bryan Tech](https://github.com/Bryanlover1). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
