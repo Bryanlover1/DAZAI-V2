@@ -76,8 +76,9 @@ Thanks to all contributors! 🚀
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 2. Now Deploy
-    <br>
-<a href='https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FBryanlover1%2FDAZAI-V2%3Ftab%3Dreadme-ov-file&template=https%3A%2F%2Fgithub.com%2FBryanlover1%2FDAZAI-V2%3Ftab%3Dreadme-ov-file' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>   >CHANGE THE USER NAME ON THE LINK AND DEPLOY
+        <br>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Bryanlover1/DAZAI-V2"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 #### DEPLOY TO REPLIT
 
