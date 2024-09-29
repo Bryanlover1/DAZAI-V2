@@ -166,16 +166,16 @@ NOW Deploy👇
 <a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="150" height="150" alt="Guru"/></a>
 
 ## `OWNER` 
-<a href="https://github.com/salmanytofficial"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
+<a href="https://github.comBryanlover1"><img src="https://github.com/Bryanlover1.png" width="250" height="250" alt="Salman Ahmad"/></a>
   
-**XLICON-V2** - By `salmanytofficial`
+**XLICON-V2** - By `Bryanlover1`
 <br>
 `Development , Maintainence , Bot Updates`
 
 ## `Main Dev` 
-<a href="https://github.com/abrahamdw882"><img src="https://i.imgur.com/100UXHy.jpg" width="250" height="250" alt="Abraham Dwamena"/></a>
+<a href="https://github.com/Bryanlover1"><img src="https://i.imgur.com/100UXHy.jpg" width="250" height="250" alt="Abraham Dwamena"/></a>
   
-**XLICON-V2** - By `abrahamdw882`
+**XLICON-V2** - By `Bryanlover1`
 <br>
 `Development , Features Enhancement , Plugin Debbuging`
 
