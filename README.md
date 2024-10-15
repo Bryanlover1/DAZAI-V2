@@ -237,5 +237,6 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 - Have A Good Day Ahead
 - Don't Use This Script As Your Bot Base 
 ---
-
+## `Main Dev` 
+<a href="https://github.com/Bryanlover1"><img src="https://telegra.ph/file/60d7acb8c8ab3ddfb8ab6.jpg" width="250" height="250" alt="Bryan Tech"/></a>
  <br><br>
