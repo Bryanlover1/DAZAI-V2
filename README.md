@@ -173,14 +173,14 @@ NOW Deploy👇
 `Development , Maintainence , Bot Updates`
 
 ## `Main Dev` 
-<a href="https://github.com/Bryanlover1"><img src="https://i.imgur.com/100UXHy.jpg" width="250" height="250" alt="Abraham Dwamena"/></a>
+<a href="https://github.com/Bryanlover1"><img src="https://i.ibb.co/5x8YyJ9/dba291cb-68c9-446d-bf89-d8a8c98325a8.jpg" width="250" height="250" alt="Bryan Tech"/></a>
   
 **DAZAI-V2** - By `Bryanlover1`
 <br>
 `Development , Features Enhancement , Plugin Debbuging`
 
 ## 🌈 `Support Us`
-- **Mail Us:** [salmansheikh2500@gmail.com](mailto:Bryanbotchway5@gmail.com)
+- **Mail Us:** [Bryanbotchway5@gmail.com](mailto:Bryanbotchway5@gmail.com)
 - **Join Our Support Group:**
  <p align="center">
    
@@ -237,6 +237,3 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 - Have A Good Day Ahead
 - Don't Use This Script As Your Bot Base 
 ---
-## `Main Dev` 
-<a href="https://github.com/Bryanlover1"><img src="https://telegra.ph/file/60d7acb8c8ab3ddfb8ab6.jpg" width="250" height="250" alt="Bryan Tech"/></a>
- <br><br>
